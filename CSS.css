@@ -1,0 +1,37 @@
+body{
+	background-color: #a8eaf9;
+}
+
+.faixa-1 {
+    background-color: #0d77e4;
+    float: left;
+    width: 223px;
+    height: 999px;
+    margin-top: -159px;
+}
+.col-sm-4{
+	margin-top: 151px;
+    margin-left: 259px;
+}
+.col-sm-5{
+	margin-top: -84px;
+    margin-left: 544px;
+}
+.col-sm-6{
+	margin-top: 185px;
+    margin-left: 259px;
+}
+.col-sm-7{
+	margin-top: -88px;
+    margin-left: 544px;
+}
+img {
+    margin-left: -20px;
+    width: 172px;
+    border-radius: 92px;
+}
+p {
+	font-family: Apple;
+}
+
+</style>
